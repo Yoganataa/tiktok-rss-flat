@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>naddiiaaayyy TikTok</title>
+    <link>https://raw.githubusercontent.com/yoganataa/tiktok-rss-flat/main/rss/naddiiaaayyy.xml</link>
+    <description>OK Boomer, all the latest TikToks from naddiiaaayyy</description>
+    <atom:link href="https://raw.githubusercontent.com/yoganataa/tiktok-rss-flat/main/rss/naddiiaaayyy.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://raw.githubusercontent.com/yoganataa/tiktok-rss-flat/main/tiktok-rss.png</url>
+      <title>naddiiaaayyy TikTok</title>
+      <link>https://raw.githubusercontent.com/yoganataa/tiktok-rss-flat/main/rss/naddiiaaayyy.xml</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Aug 2025 13:23:29 +0000</lastBuildDate>
+    <item>
+      <title>No Title</title>
+      <link>https://tiktok.com/@naddiiaaayyy/video/7542142123534011666</link>
+      <description>&lt;img src="https://raw.githubusercontent.com/yoganataa/tiktok-rss-flat/main/thumbnails/naddiiaaayyy/screenshot_oweWtPQQ7ej7CQZQfCXRAJ1MA4ozhDVK8iVIBa~tplv-tiktokx-origin.image.jpg" / &gt; No Description</description>
+      <guid isPermaLink="false">https://tiktok.com/@naddiiaaayyy/video/7542142123534011666</guid>
+      <pubDate>Sun, 24 Aug 2025 13:23:29 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
